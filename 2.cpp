@@ -28,14 +28,9 @@ Output: [8,9,9,9,0,0,0,1]
 
 Constraints:
 
-2 <= nums.length <= 104
--109 <= nums[i] <= 109
--109 <= target <= 109
-Only one valid answer exists.
- 
------------------------------------------------------------------------------------------------------------------------
-
-Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+The number of nodes in each linked list is in the range [1, 100].
+0 <= Node.val <= 9
+It is guaranteed that the list represents a number that does not have leading zeros.
 
 -----------------------------------------------------------------------------------------------------------------------
 

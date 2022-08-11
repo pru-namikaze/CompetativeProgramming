@@ -1,7 +1,7 @@
 //
 //  File Name: week3ReportQuestion1.cpp
 //  Program: Masters of Computer Science
-//  Course: Specalised Programming Workshop
+//  Course: Specalised Programming
 //  Problem URL: https://community.topcoder.com/stat?c=problem_statement&pm=15099
 //  Test Case URL: https://community.topcoder.com/stat?c=problem_solution&cr=40732861&rd=17298&pm=15099
 //  Test Cases Passes: 25 / 25
